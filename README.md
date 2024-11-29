@@ -1,33 +1,46 @@
-# Photography Website Concept 
+# Sandry'arts 
 
-A photography-inspired website layout with an expanding stack slider and a background image tilt effect.
+**Sandry'arts** é um portfólio digital dedicado às incríveis obras de arte da Sandra, uma talentosa artista que transforma sua criatividade em desenhos impressionantes e pinturas únicas. Além disso, Sandra está a cursar um mestrado em Análise Inteligente de Dados, mostrando sua habilidade em unir arte e ciência.
 
-[Article on Codrops](http://tympanus.net/codrops/?p=23446)
+## Sobre o Projeto
 
-[Demo](http://tympanus.net/Development/PhotographyWebsiteConcept/)
+Este website foi projetado para destacar o trabalho artístico de Sandra, apresentando uma interface visualmente atrativa com uma galeria interativa para exibir suas criações. Ele inclui recursos como um slider dinâmico e efeitos modernos para proporcionar uma experiência imersiva ao público.
 
-## License
+## Recursos
 
-Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html)
+- **Galeria Interativa**: Apresenta as obras com um slider dinâmico e responsivo.
+- **Efeito de Tilt no Fundo**: Cria uma sensação de profundidade ao navegar pelo site.
+- **Design Responsivo**: Acessível em dispositivos móveis, tablets e desktops.
+- **Portfólio Moderno**: Um espaço único para celebrar a arte de Sandra.
 
-## Credits 
+## Tecnologias Utilizadas
 
-### Flickity 
-[Flickity](http://flickity.metafizzy.co/) by [David DeSandro](http://desandro.com/) used under the terms of the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html)
+- **HTML5** e **CSS3**
+- **JavaScript** para interatividade
+- **Flickity** para slider dinâmico (sob licença GNU GPL v3)
 
-If you want to use Flickity to develop commercial sites, themes, projects, and applications, the Commercial license is the appropriate license. With this option, your source code is kept proprietary. Purchase a Flickity Commercial License at [flickity.metafizzy.co](http://flickity.metafizzy.co/#commerical-license)
+## Licença
 
-If you are creating an open source application under a license compatible with the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html), you may use Flickity under the terms of the GPLv3.
+Lançado sob os termos da [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
-[Read more about Flickity's license](http://flickity.metafizzy.co/license.html). 
+## Créditos
 
-### Icons 
-Camera icons made by [Freepik](http://www.flaticon.com/authors/freepik "Freepik") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")
+### Flickity
+[Flickity](http://flickity.metafizzy.co/) desenvolvido por [David DeSandro](http://desandro.com/) utilizado sob a licença [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html). Para uso comercial, consulte a [Licença Comercial do Flickity](http://flickity.metafizzy.co/#commerical-license).
 
-## Misc
+### Ícones
+Ícones relacionados à arte e pintura foram obtidos de [Freepik](http://www.flaticon.com/authors/freepik "Freepik") no [Flaticon](http://www.flaticon.com "Flaticon") e licenciados sob [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0").
 
-Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+## Links Importantes
 
-[© Codrops 2015](http://www.codrops.com)
+- [Portfólio Online de Sandry'arts](#) *(Substituir pelo link do site quando disponível)*
+- [Licença GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
 
+## Redes Sociais
 
+- **Sandra no Instagram**: *---------*
+- **Projeto no GitHub**: *-----------*
+
+---
+
+Desenvolvido com dedicação para celebrar a paixão de Sandra por criar arte extraordinária. 🎨✨
